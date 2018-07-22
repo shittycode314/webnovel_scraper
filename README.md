@@ -1,2 +1,1 @@
-"# conquest" 
-"# webnovel_scraper" 
+basically lookup how python comments work if you don't know; uncomment relevant function and set variable; run. This scrapes to current directory cause I'm lazy so you should probably put it in a folder
